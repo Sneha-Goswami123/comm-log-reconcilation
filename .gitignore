@@ -1,0 +1,4 @@
+data/comm_log.db
+data/*.csv
+__pycache__/
+*.pyc
